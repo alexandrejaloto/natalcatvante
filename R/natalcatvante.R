@@ -1,8 +1,13 @@
 #' Natal CATvante
+#'
 #' @name feliznatal
 #'
-#' @export
+#' @examples
+#' feliznatal()
 #'
+#' @export
+
+
 feliznatal <- function()
 {
   list(
