@@ -3,7 +3,7 @@
 #'
 #' @export
 #'
-natalcatvante <- function()
+feliznatal <- function()
 {
   list(
     job1 = tocar_cat(),
