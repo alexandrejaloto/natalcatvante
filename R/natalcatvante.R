@@ -1,5 +1,5 @@
 #' Natal CATvante
-#' @name natalcatvante
+#' @name feliznatal
 #'
 #' @export
 #'
