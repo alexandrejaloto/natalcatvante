@@ -93,6 +93,7 @@ tocar_cat <- function()
 desenhar_cat <- function()
 {
   dev.new()
+  dev.new()
 
   # Set drawing settings ----------------------------------------------------
 draw::drawSettings(pageWidth = 5, pageHeight = 5, units = "inches")
