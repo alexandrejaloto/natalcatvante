@@ -1,4 +1,4 @@
-#' @title Natal CATvante
+#' Natal CATvante
 #' @name natalcatvante
 #'
 #' @export
