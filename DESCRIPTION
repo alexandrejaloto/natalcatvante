@@ -15,4 +15,6 @@ URL: https://github.com/alexandrejaloto/natalcatvante
 BugReports: https://github.com/alexandrejaloto/natalcatvante/issues
 Imports: 
     draw,
-    Rmusic
+    Rmusic (>= 0.1.0)
+Remotes:  
+    keithmcnulty/Rmusic
